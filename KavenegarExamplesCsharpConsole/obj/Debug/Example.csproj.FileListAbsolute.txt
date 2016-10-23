@@ -1,0 +1,22 @@
+D:\Projects\SDK\kavenegar-csharp\Example\bin\Debug\Example.exe.config
+D:\Projects\SDK\kavenegar-csharp\Example\bin\Debug\Example.exe
+D:\Projects\SDK\kavenegar-csharp\Example\bin\Debug\Example.pdb
+D:\Projects\SDK\kavenegar-csharp\Example\bin\Debug\Kavenegar.dll
+D:\Projects\SDK\kavenegar-csharp\Example\bin\Debug\Kavenegar.pdb
+D:\Projects\SDK\kavenegar-csharp\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+D:\Projects\SDK\kavenegar-csharp\Example\obj\Debug\Example.exe
+D:\Projects\SDK\kavenegar-csharp\Example\obj\Debug\Example.pdb
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\bin\Debug\Example.exe.config
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\obj\Debug\Example.exe
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\obj\Debug\Example.pdb
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\bin\Debug\Example.exe
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\bin\Debug\Example.pdb
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\bin\Debug\Kavenegar.dll
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\bin\Debug\Kavenegar.pdb
+D:\Projects\kavenegar.sdk\kavenegar-csharp\Example\obj\Debug\Example.csprojResolveAssemblyReference.cache
+D:\kavenegar-csharp\Example\bin\Debug\Example.exe.config
+D:\kavenegar-csharp\Example\obj\Debug\Example.exe
+D:\kavenegar-csharp\Example\obj\Debug\Example.pdb
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Example.exe.config
+D:\kavenegar-csharp - Copy\Example\obj\Debug\Example.exe
+D:\kavenegar-csharp - Copy\Example\obj\Debug\Example.pdb

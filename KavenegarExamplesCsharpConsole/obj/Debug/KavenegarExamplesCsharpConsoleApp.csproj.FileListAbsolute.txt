@@ -1,0 +1,8 @@
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Example.exe.config
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Example.exe
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Example.pdb
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Kavenegar.dll
+D:\kavenegar-csharp - Copy\Example\bin\Debug\Kavenegar.pdb
+D:\kavenegar-csharp - Copy\Example\obj\Debug\KavenegarExamplesCsharpConsoleApp.csprojResolveAssemblyReference.cache
+D:\kavenegar-csharp - Copy\Example\obj\Debug\Example.exe
+D:\kavenegar-csharp - Copy\Example\obj\Debug\Example.pdb
