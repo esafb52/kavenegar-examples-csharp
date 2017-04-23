@@ -18,3 +18,10 @@ D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpCons
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.csprojResolveAssemblyReference.cache
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.exe
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.pdb
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\bin\Debug\KavenegarExamplesCsharpConsole.exe.config
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.exe
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.pdb
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\bin\Debug\KavenegarExamplesCsharpConsole.exe
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\bin\Debug\KavenegarExamplesCsharpConsole.pdb
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\bin\Debug\Kavenegar.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpConsole\obj\Debug\KavenegarExamplesCsharpConsole.csprojResolveAssemblyReference.cache

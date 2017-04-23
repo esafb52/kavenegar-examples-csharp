@@ -61,3 +61,36 @@ D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.csprojResolveAssemblyReference.cache
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.dll
 D:\kavenegar-csharp - Copy\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.pdb
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\KavenegarExamplesCsharpMvc.dll.config
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\KavenegarExamplesCsharpMvc.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\KavenegarExamplesCsharpMvc.pdb
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Antlr3.Runtime.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\EntityFramework.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Kavenegar.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Microsoft.Web.Infrastructure.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Newtonsoft.Json.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Net.Http.Formatting.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Http.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Http.WebHost.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Mvc.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Optimization.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Providers.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Razor.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.Deployment.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.Razor.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\WebGrease.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\EntityFramework.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\Newtonsoft.Json.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Net.Http.Formatting.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Http.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Http.WebHost.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Mvc.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.Razor.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.Deployment.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\bin\System.Web.WebPages.Razor.xml
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.csprojResolveAssemblyReference.cache
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.dll
+D:\Projects\SDK\kavenegar-examples-csharp\KavenegarExamplesCsharpMvc\obj\Debug\KavenegarExamplesCsharpMvc.pdb
